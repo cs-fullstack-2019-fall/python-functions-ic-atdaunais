@@ -18,5 +18,3 @@ sumOf3Numbers(number1, number2, number3)
 ### Problem 4:
 Create a function that’s passed a name and the number of times a user wants to print Hello [NAME]. Print Hello [NAME] that many times in the function.
 
-### Challenge:
-Create a function that’s passed an array and a string and returns the new updated array. Create another function that’s passed two integers and returns the difference. Create a third function that’s passed an integer array and prints it.
